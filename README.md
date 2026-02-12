@@ -44,6 +44,7 @@
   </a>
 </p>
 
+
 ### 🧰 Frameworks and technologies
 
 
@@ -53,20 +54,11 @@
     <img src="https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8" alt="SQLite"/>
     <img src="https://img.shields.io/badge/Python-Pandas-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8" alt="Pandas"/>
     <img src="https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8" alt="React"/>
+    <img src="https://img.shields.io/badge/Python-NumPy-informational?style=flat&logo=react&logoColor=white&color=6aa6f8" alt="NumPy"/>
+
 </p>
 
 
----
-
-## 📊 GitHub statistics
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Самые используемые языки Aspirin493" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aspirin493&layout=compact&theme=dark" />
-  </a>
-</p>
-
----
 
 ---
 
