@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8" alt="Docker"/>
     <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8" alt="MySQL"/>
     <img src="https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8" alt="SQLite"/>
-    <img src="" alt="SQLite"/>
+    <img src="https://img.shields.io/badge/Python-Pandas-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8" alt="Pandas"/>
     <img src="https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8" alt="React"/>
 </p>
 
