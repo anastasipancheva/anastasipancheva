@@ -9,6 +9,7 @@
 ## 🧐 About me
 
 - 🔭 Currently working on **Personal Web-Site**
+- 📊 I am studying software engineering at **TSU Higher School of IT**
 - 🌱 Learning **Machine Learning**
 - 💻 Visit my business card website: [anastasipancheva.ru](https://anastasipancheva.ru/)
 - 💬 Ask me about **React, Next, UML, SQL, Python**
@@ -66,22 +67,6 @@
 </p>
 
 ---
-
-## 🏆 GitHub trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aspirin493&theme=onedark&row=2&column=3" alt="трофеи"/>
-  </a>
-</p>
-
----
-
-## 😄 Just a little humor to brighten your day
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</p>
 
 ---
 
