@@ -24,7 +24,7 @@
     <img src="https://images.icon-icons.com/2415/PNG/512/react_original_logo_icon_146374.png" alt="React" width="40" height="40"/>
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.mds.yandex.net/i?id=bd07f99f1dbbeaae8446fe5078abbe61_l-4569264-images-thumbs&n=13" alt="Python" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -36,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://images.icon-icons.com/3408/PNG/512/sql_icon_216977.png" alt="SQL" width="40" height="40"/>
+    <img src="https://img.icons8.com/win8/1200/sql.jpg" alt="SQL" width="40" height="40"/>
   </a>
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://avatars.mds.yandex.net/i?id=ea4fb68b004597a02eaf33cd643c00fc_l-12319660-images-thumbs&n=13" alt="UML" width="40" height="40"/>
