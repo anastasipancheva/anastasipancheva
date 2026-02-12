@@ -26,7 +26,7 @@
   </a>
 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="  https://sohanemon.gallerycdn.vsassets.io/extensions/sohanemon/react-next-js-code-snippets/0.2.18/1709966233725/Microsoft.VisualStudio.Services.Icons.Default" alt="Next" width="40" height="40"/>
+    <img src="https://sohanemon.gallerycdn.vsassets.io/extensions/sohanemon/react-next-js-code-snippets/0.2.18/1709966233725/Microsoft.VisualStudio.Services.Icons.Default" alt="Next" width="40" height="40"/>
   </a>
   
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
