@@ -24,7 +24,7 @@
     <img src="https://images.icon-icons.com/2415/PNG/512/react_original_logo_icon_146374.png" alt="React" width="40" height="40"/>
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg](https://images.icon-icons.com/1508/PNG/512/python_104451.png)" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -49,7 +49,7 @@
 <p align="left">
     <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8" alt="Docker"/>
     <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8" alt="SQLite"/>
+    <img src="https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8" alt="SQLite"/>
     <img src="" alt="SQLite"/>
     <img src="https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8" alt="React"/>
 </p>
