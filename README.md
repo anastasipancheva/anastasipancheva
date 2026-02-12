@@ -44,7 +44,6 @@
   </a>
 </p>
 
-
 ### 🧰 Frameworks and technologies
 
 
@@ -55,9 +54,10 @@
     <img src="https://img.shields.io/badge/Python-Pandas-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8" alt="Pandas"/>
     <img src="https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8" alt="React"/>
     <img src="https://img.shields.io/badge/Python-NumPy-informational?style=flat&logo=react&logoColor=white&color=6aa6f8" alt="NumPy"/>
-
+    <img src="https://img.shields.io/badge/Python-Matplotlib-informational?style=flat&logo=react&logoColor=white&color=6aa6f8" alt="Matplotlib"/>
+    <img src="https://img.shields.io/badge/Python-Scikit-learn-informational?style=flat&logo=react&logoColor=white&color=6aa6f8" alt="Scikit-learn"/>
+    <img src="https://img.shields.io/badge/Python-Keras-informational?style=flat&logo=react&logoColor=white&color=6aa6f8" alt="Keras"/>
 </p>
-
 
 
 ---
