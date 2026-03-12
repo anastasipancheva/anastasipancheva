@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, my name is Anastasia!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=System+analyst+from+Russia;Frontend-developer-from-myself" alt="Анимация текста" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=System+analyst+from+Russia;Frontend+developer+for+myself" alt="Анимация текста" />
 </p>
 
 ---
