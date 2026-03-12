@@ -1,16 +1,16 @@
 <h1 align="center">👋 Hello, my name is Anastasia!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=System+analyst+from+Russia;Novice+ML+engineer" alt="Анимация текста" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=System+analyst+from+Russia;Frontend-developer-from-myself" alt="Анимация текста" />
 </p>
 
 ---
 
 ## 🧐 About me
 
-- 🔭 Currently working on **Personal Web-Site**
+- 🔭 Currently working on **documentation for a pet project**
 - 📊 I am studying software engineering at **TSU Higher School of IT**
-- 🌱 Learning **Machine Learning**
+- 🌱 Learning **BPMN, SOAP, UML, API**
 - 💻 Visit my business card website: [anastasipancheva.ru](https://anastasipancheva.ru/)
 - 💬 Ask me about **React, Next, UML, SQL, Python**
 
